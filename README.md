@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbhishekKumarOfficial
+- 👋 Hi, I’m @Abhishek Kumar
 - 👀 I’m interested in Data Engineering, Data Science and Computer Vision.
 - 🌱 I’m currently learning Scala.
 
