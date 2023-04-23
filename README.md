@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhishek Kumar
-- 👀 I’m interested in Data Engineering, Data Science and Computer Vision.
-- 🌱 I’m currently learning Scala.
+- 👀 I’m interested in Data Engineering and Backend Development.
+- 🌱 I’m currently learning Spring Boot.
 
 <!---
 AbhishekKumarOfficial/AbhishekKumarOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
