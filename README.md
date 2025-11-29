@@ -1,8 +1,2 @@
-- 👋 Hi, I’m @Abhishek Kumar
-- 👀 I’m interested in Data Engineering and Backend Development.
-- 🌱 I’m currently learning MERN stack.
-
-<!---
-AbhishekKumarOfficial/AbhishekKumarOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Interests: Data Engineering, AI, & Backend Development. 🌱 Current Focus: Deep-diving into AI/ML.
+Building scalable data pipelines and backend systems. Passionate about applying Artificial Intelligence to engineering problems.
